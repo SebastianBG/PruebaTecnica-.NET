@@ -48,14 +48,15 @@ cd PruebaTecnica-.NET/
 ```bash
 cd CatGiphyApp-Backend
 dotnet restore
+cd CatGiphyApp
 dotnet run
 ```
 
 El backend estará disponible en:
 
-https://localhost:7123/swagger → Swagger UI
+https://localhost:5256/swagger → Swagger UI
 
-https://localhost:7123/api → API base
+https://localhost:5256/api → API base
 
 ## 3. Frontend (React)
 En otra terminal:

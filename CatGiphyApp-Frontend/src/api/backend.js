@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://localhost:7123/api";
+const API_URL = "https://localhost:5256/api";
 
 export async function getCatFact() {
     const res = await axios.get(`${API_URL}/fact`);
