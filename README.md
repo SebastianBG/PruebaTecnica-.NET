@@ -40,6 +40,7 @@ Una aplicación fullstack que conecta datos aleatorios sobre gatos (Cat Facts) c
 
 ```bash
 git clone https://github.com/SebastianBG/PruebaTecnica-.NET.git
+cd PruebaTecnica-.NET/
 ```
 
 ## 2. Backend (.NET)
