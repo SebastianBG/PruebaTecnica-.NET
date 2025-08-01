@@ -54,9 +54,9 @@ dotnet run
 
 El backend estará disponible en:
 
-https://localhost:5256/swagger → Swagger UI
+http://localhost:5256/swagger → Swagger UI
 
-https://localhost:5256/api → API base
+http://localhost:5256/api → API base
 
 ## 3. Frontend (React)
 En otra terminal:
